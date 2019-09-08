@@ -3,7 +3,7 @@ blender plugin to help import unity-formatted fbx asset packs. As such, you can 
 
 This is my first blender plug-in. It's got a bunch of hard-coded values and paths, as i don't know yet how to make it all configurable. Contributions welcome!
 
-# Instalaltion
+# Installation
 easiest way is to git-clone this repo into ~/Library/Application Support/Blender/2.80/scripts/addons/blender-unity-fbx-import
 
 Then it shows up here when you press "N"
